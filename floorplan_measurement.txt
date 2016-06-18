@@ -1,0 +1,7 @@
+[Mått i forma_lokal.png]
+
+Mått => 1540px = 20 m --->  77 px per meter
+
+Lokal X:  1690 px -->  21,94 m ~= 22 m
+Lokal Y:  1205 px -->  15,64 m ~= 15,5 m
+Area markplan: 22 * 15,5 = 341 kvm
